@@ -1,0 +1,35 @@
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.header {
+    font-size: 50px;
+    color: white;
+}
+a {
+    color: aquamarine;
+}
+.sub-header {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.details {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer {
+    text-align: right;
+    color: gray;
+}
+
